@@ -1,4 +1,4 @@
-# thanks to Ceej for the script, have just changed for DattoRMM
+# thanks to Ceej for the script, have just changed to DattoRMM
 #original script: https://github.com/cscaminaci/Scripts/tree/main/NinjaRMM%20Better%20User%20Sync
 # Maps to UDF 20 in dattoRMM
 
